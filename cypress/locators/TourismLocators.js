@@ -9,4 +9,3 @@ export const TourismLocators = {
     closeContactUsButton: '.close-contact-us',
     submitButton: 'Submit'
   };
-  
